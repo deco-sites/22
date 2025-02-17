@@ -1,0 +1,42 @@
+{
+  "__resolveType": "htmx/sections/Deferred.tsx",
+  "sections": {
+    "__resolveType": "website/flags/multivariate.ts",
+    "variants": [
+      {
+        "value": [
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "Battel ground "
+            }
+          }
+        ],
+        "rule": {
+          "__resolveType": "website/matchers/device.ts",
+          "mobile": true,
+          "tablet": true,
+          "desktop": true
+        }
+      },
+      {
+        "value": [
+          {
+            "__resolveType": "website/sections/Rendering/Lazy.tsx",
+            "section": {
+              "__resolveType": "Battel ground "
+            }
+          }
+        ],
+        "rule": {
+          "__resolveType": "website/matchers/always.ts"
+        }
+      }
+    ]
+  },
+  "fallbacks": [],
+  "trigger": {
+    "type": "load"
+  },
+  "loading": "eager"
+}

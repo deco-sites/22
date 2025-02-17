@@ -1,0 +1,13 @@
+{
+  "name": "collections/blog/posts/c1983f2deaf7",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [
+      {}
+    ],
+    "categories": [],
+    "extraProps": [],
+    "title": "Any thing ",
+    "excerpt": "Non excpert"
+  }
+}

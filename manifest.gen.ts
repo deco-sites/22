@@ -2,9 +2,26 @@
 // This file SHOULD be checked into source version control.
 // This file is automatically updated during development when running `dev.ts`.
 
-import * as $$$$$$$$$$$0 from "./apps/deco/htmx.ts";
-import * as $$$$$$$$$$$1 from "./apps/deco/records.ts";
-import * as $$$$$$$$$$$2 from "./apps/site.ts";
+import * as $$$$$$$$$$$0 from "./apps/deco/ai-assistants.ts";
+import * as $$$$$$$$$$$1 from "./apps/deco/analytics.ts";
+import * as $$$$$$$$$$$2 from "./apps/deco/blog.ts";
+import * as $$$$$$$$$$$3 from "./apps/deco/brand-assistant.ts";
+import * as $$$$$$$$$$$4 from "./apps/deco/crux.ts";
+import * as $$$$$$$$$$$5 from "./apps/deco/htmx.ts";
+import * as $$$$$$$$$$$6 from "./apps/deco/implementation.ts";
+import * as $$$$$$$$$$$7 from "./apps/deco/konfidency.ts";
+import * as $$$$$$$$$$$8 from "./apps/deco/linx-impulse.ts";
+import * as $$$$$$$$$$$9 from "./apps/deco/mailchimp.ts";
+import * as $$$$$$$$$$$10 from "./apps/deco/nuvemshop.ts";
+import * as $$$$$$$$$$$11 from "./apps/deco/posthog.ts";
+import * as $$$$$$$$$$$12 from "./apps/deco/power-reviews.ts";
+import * as $$$$$$$$$$$13 from "./apps/deco/ra-trustvox.ts";
+import * as $$$$$$$$$$$14 from "./apps/deco/records.ts";
+import * as $$$$$$$$$$$15 from "./apps/deco/resend.ts";
+import * as $$$$$$$$$$$16 from "./apps/deco/verified-reviews.ts";
+import * as $$$$$$$$$$$17 from "./apps/deco/wap.ts";
+import * as $$$$$$$$$$$18 from "./apps/deco/workflows.ts";
+import * as $$$$$$$$$$$19 from "./apps/site.ts";
 import * as $$$$$$0 from "./sections/Footer.tsx";
 import * as $$$$$$1 from "./sections/ItWorks.tsx";
 import * as $$$$$$2 from "./sections/Theme/Theme.tsx";
@@ -16,9 +33,26 @@ const manifest = {
     "site/sections/Theme/Theme.tsx": $$$$$$2,
   },
   "apps": {
-    "site/apps/deco/htmx.ts": $$$$$$$$$$$0,
-    "site/apps/deco/records.ts": $$$$$$$$$$$1,
-    "site/apps/site.ts": $$$$$$$$$$$2,
+    "site/apps/deco/ai-assistants.ts": $$$$$$$$$$$0,
+    "site/apps/deco/analytics.ts": $$$$$$$$$$$1,
+    "site/apps/deco/blog.ts": $$$$$$$$$$$2,
+    "site/apps/deco/brand-assistant.ts": $$$$$$$$$$$3,
+    "site/apps/deco/crux.ts": $$$$$$$$$$$4,
+    "site/apps/deco/htmx.ts": $$$$$$$$$$$5,
+    "site/apps/deco/implementation.ts": $$$$$$$$$$$6,
+    "site/apps/deco/konfidency.ts": $$$$$$$$$$$7,
+    "site/apps/deco/linx-impulse.ts": $$$$$$$$$$$8,
+    "site/apps/deco/mailchimp.ts": $$$$$$$$$$$9,
+    "site/apps/deco/nuvemshop.ts": $$$$$$$$$$$10,
+    "site/apps/deco/posthog.ts": $$$$$$$$$$$11,
+    "site/apps/deco/power-reviews.ts": $$$$$$$$$$$12,
+    "site/apps/deco/ra-trustvox.ts": $$$$$$$$$$$13,
+    "site/apps/deco/records.ts": $$$$$$$$$$$14,
+    "site/apps/deco/resend.ts": $$$$$$$$$$$15,
+    "site/apps/deco/verified-reviews.ts": $$$$$$$$$$$16,
+    "site/apps/deco/wap.ts": $$$$$$$$$$$17,
+    "site/apps/deco/workflows.ts": $$$$$$$$$$$18,
+    "site/apps/site.ts": $$$$$$$$$$$19,
   },
   "name": "site",
   "baseUrl": import.meta.url,
